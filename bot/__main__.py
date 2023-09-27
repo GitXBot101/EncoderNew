@@ -1,4 +1,4 @@
-from Bot import OWNER_ID, API_ID, APP_HASH, BOT_NAME, BOT_TOKEN
+from bot import OWNER_ID, API_ID, APP_HASH, BOT_NAME, BOT_TOKEN
 from pyrogram.types import InlineKeyboardMarkup as IKM, InlineKeyboardButton as IKB
 import asyncio
 from pyrogram import Client
